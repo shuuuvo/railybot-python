@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, ConversationHandler, callbackcontext, Filters
 from main import ChatBot
 
-token = '5040558773:AAG6KpiLEV9BC0UbnCCieMAGqJv0EMIX_qI'
+token = ''
 
 # BOT DEFINITION
 
