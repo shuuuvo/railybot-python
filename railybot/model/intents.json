@@ -1,0 +1,11 @@
+{"intents": [
+    {"tag": "shop",
+  "patterns": ["buy", "chepeast","ticket", "train","arriving", "leaving", "Morning","Afternoon", "trip","from","to","destination","arriving"],
+  "responses":  ["Hello!, How can I help you?"],
+  "context_set": ""},
+      {"tag": "delay",
+  "patterns": ["There is a delay in my train", "I am in a train heading to and theres a delay", "announced a delay"],
+  "responses":  ["Hello!, How can I help you?"],
+  "context_set": ""}
+]
+}

@@ -1,0 +1,11 @@
+﻿s,fq,v
+0,Great! Are you looking for a one way or round ticket,return
+1,Where are you traveling from,origin
+10001,Where are you traveling to,destination
+11001,When to you want to travel and at what time,tr_date
+11101,When do you want to return,re_date
+11111,Retreiving chepeast ticket,cheapest ticket
+11,Where are you traveling from,origin
+10011,Where are you traveling to,destination
+11011,When to you want to travel and at what time,tr_date
+11000,Great! Are you looking for a one way or round ticket,return

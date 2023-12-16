@@ -1,0 +1,8 @@
+﻿s,fq,v
+000,Okay! In what station are you right now?,origin
+001,How long is the delay?,delay_time
+011,Where are you traveling to?,destination
+111,Calculating,estimated
+010,Okay! In what station are you right now?,origin
+100,How long is the delay?,delay_time
+101,Where are you traveling to?,destination
